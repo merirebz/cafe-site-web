@@ -160,7 +160,7 @@ nav {
 }
 
 .header__btns .btn {
-  min-width: 150px;
+  min-width: 149px;
 }
 
 .header__btns .btn:nth-child(2) {
